@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Nadhif
+- 🌱 I’m currently learning Go
+- 📫 How to reach me: nadhifikbarw@gmail.com
 
 <!--
 **nadhifikbarw/nadhifikbarw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
