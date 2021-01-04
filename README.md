@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nadhif
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning C, and Go
 - 📫 How to reach me: nadhifikbarw@gmail.com
 
 <!--
