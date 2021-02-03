@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nadhif
-- 🔭 I’m currently working on Big Data Pipeline Integration leveragin Kafka and Pentaho for my Internship
+- 🔭 I’m currently working on Big Data Pipeline Integration leveraging Kafka and Pentaho for my Internship
 - 🌱 I’m currently learning C, C++, and Go
 - 📫 How to reach me: nadhifikbarw@gmail.com
 
