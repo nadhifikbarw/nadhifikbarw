@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nadhif
 - 🔭 I’m currently working on Big Data Pipeline Integration leveraging Kafka and Pentaho for my Internship
-- 🌱 I’m currently learning C, C++, and Go
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: nadhifikbarw@gmail.com
 
 <!--
