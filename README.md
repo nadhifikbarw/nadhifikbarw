@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Nadhif
-- 🔭 I’m currently working on big data pipeline integration leveraging Kafka and Pentaho for my Internship
-- 🌱 I’m currently learning C++
 - 📫 How to reach me: nadhifikbarw@gmail.com
 
 <!--
