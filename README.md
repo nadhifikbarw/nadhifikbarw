@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nadhif
 - 🔧 I share technical write ups on various topics, check my repos with name `x-topics-name` (e.g. [x-go-painless-null](https://github.com/nadhifikbarw/x-go-painless-null/))
-- 🌱 I’m actively developing scalable and distributed systems using Go and currently learning C for lower-level development.
+- 🌱 I develop scalable distributed systems using Go and currently learning C for lower-level development.
 - 📫 How to reach me: nadhifikbarw@gmail.com
 
 <!--
