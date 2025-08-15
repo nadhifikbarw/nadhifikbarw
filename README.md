@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nadhif
-- 🔧 I share condense technical write ups on various topics, check out [my repos](https://github.com/nadhifikbarw?tab=repositories&q=x-&type=&language=&sort=) with name starting with `x-` (e.g. [x-go-painless-null](https://github.com/nadhifikbarw/x-go-painless-null/))
+- 🔧 I share condense technical write ups on various topics, check out [my repos](https://github.com/nadhifikbarw?tab=repositories&q=x-&type=&language=&sort=name) with name starting with `x-` (e.g. [x-go-painless-null](https://github.com/nadhifikbarw/x-go-painless-null/))
 - 🌱 I develop scalable distributed systems using Go and currently learning C for lower-level development.
 - 📫 How to reach me: nadhifikbarw@gmail.com
 
