@@ -3,7 +3,7 @@
 - 🌱 I develop scalable distributed systems using Go and currently learning C for lower-level development.
 - 📫 How to reach me: nadhifikbarw@gmail.com
 
-> Some of my write ups are slightly tailored from personal experiences being engineer #2-#10 with responsibilites to tackle more ambiguity, diverse problem sets, and laying out foundational development workflows.
+> Some of my write ups are slightly tailored from personal experiences being engineer #2-#10 with responsibilites to tackle more ambiguity, diverse problem sets, and laying out foundational internal developer platform.
 
 <!--
 **nadhifikbarw/nadhifikbarw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
